@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relay Control</string>
+    <string name="iot_home_automation">IOT HOME AUTOMATION</string>
+    <string name="relay_1">Relay 1</string>
+    <string name="relay_2">Relay 2</string>
+    <string name="relay_3">Relay 3</string>
+    <string name="relay_4">Relay 4</string>
+</resources>
