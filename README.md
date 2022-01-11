@@ -1,3 +1,4 @@
+// Hi im sanjay panwar and this is my IOT project.
 //This is my minor project.
 
 With the fast-paced world and the progression of the modern technology, the emergence of IoT has been playing a vital role in each and every sector of our daily lives. In the field of home automation and security, it has played a vital and pivot role, it has made our lifestyle easier with the smart features inherited in the automation. The implementation and design of wireless home automation control using Wi-Fi technology handles the devices with integral security and protected system. 
